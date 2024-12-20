@@ -1,6 +1,6 @@
 ### basically langchain contect the any LLM and langchain is a peekage
 
-! pip install langchain langchain-google-genai
+```! pip install langchain langchain-google-genai```
 
 ### basically it is a simple chatbord
 
